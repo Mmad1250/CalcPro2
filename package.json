@@ -1,0 +1,15 @@
+{
+  "name": "calcpro-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "open:android": "npx cap open android",
+    "build:web": "echo Put web build here"
+  },
+  "dependencies": {
+    "@capacitor/core": "latest"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "latest"
+  }
+}
