@@ -1,0 +1,4 @@
+node_modules/
+agp.pom
+.gradle/
+android/.gradle/
